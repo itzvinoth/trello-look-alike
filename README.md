@@ -20,4 +20,4 @@ You will also see any lint errors in the console.
 - [Lodash](#https://lodash.com/)
 - [Immutability Helper](#https://github.com/kolodny/immutability-helper)
 
-![Live Demo](http://vinothk.com/trello-look-alike/)
+![Live Demo](<blockquote class="imgur-embed-pub" lang="en" data-id="a/Iwk2hZw"><a href="//imgur.com/Iwk2hZw"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
